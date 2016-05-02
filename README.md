@@ -4,6 +4,17 @@ Original SRC:
 https://github.com/DeborahK/Angular2-GettingStarted
 
 
+Application:
+
+![Application](/img/pic1.png?raw=true)
+
+![Application](/img/pic2.png?raw=true)
+
+![Application](/img/pic3.png?raw=true)
+
+![Application](/img/pic4.png?raw=true)
+
+
 ### Prepare Environment for Development
 
 I will work on Ubuntu 14.04
