@@ -42,3 +42,17 @@ I will work on Ubuntu 14.04
 
     $ cd /projects/dev/Angular-2-Getting-Started/
     $ atom .
+
+
+<br/>
+
+### Setting up an Angular 2 Application
+
+![Application](/img/pic5.png?raw=true)
+
+Source codes from Original Project
+
+    $ npm install
+    $ npm start
+
+![Application](/img/pic6.png?raw=true)
