@@ -91,3 +91,7 @@ Creating the App Component
 ![Application](/img/pic14.png?raw=true)
 
 ![Application](/img/pic15.png?raw=true)
+
+05_07-Adding Logic with Directives ngFor
+
+![Application](/img/pic16.png?raw=true)
