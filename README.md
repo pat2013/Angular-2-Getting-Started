@@ -56,3 +56,9 @@ Source codes from Original Project
     $ npm start
 
 ![Application](/img/pic6.png?raw=true)
+
+
+![Application](/img/pic7.png?raw=true)
+
+
+![Application](/img/pic8.png?raw=true)
