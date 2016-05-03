@@ -77,3 +77,17 @@ Creating the App Component
 ![Application](/img/pic10.png?raw=true)
 
 ![Application](/img/pic11.png?raw=true)
+
+<br/>
+
+### 05. Templates, Interpolation, and Directives
+
+05_04-Using a Component as a Directive
+
+![Application](/img/pic12.png?raw=true)
+
+![Application](/img/pic13.png?raw=true)
+
+![Application](/img/pic14.png?raw=true)
+
+![Application](/img/pic15.png?raw=true)
