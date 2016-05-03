@@ -57,8 +57,23 @@ Source codes from Original Project
 
 ![Application](/img/pic6.png?raw=true)
 
+<br/>
+
+### 04. Introduction to Components
 
 ![Application](/img/pic7.png?raw=true)
 
 
 ![Application](/img/pic8.png?raw=true)
+
+
+<br/>
+
+Creating the App Component
+
+
+![Application](/img/pic9.png?raw=true)
+
+![Application](/img/pic10.png?raw=true)
+
+![Application](/img/pic11.png?raw=true)
