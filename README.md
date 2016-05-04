@@ -1,4 +1,4 @@
-# [Deborah Kurata, Pluralsight.com ] Angular 2: Getting Started [ENG, 2016]
+# Angular 2: Getting Started [ENG, 2016]
 
 Original SRC:  
 https://github.com/DeborahK/Angular2-GettingStarted
